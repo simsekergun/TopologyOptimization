@@ -1,7 +1,7 @@
-# Topology Optimization
+# Permittivity Optimization
 
 Training Notebook: Classification_with_Light_Training.ipynb
 
 Testing Notebook: Classification_with_Light_Testing.ipynb
 
-Details will be provided later
+Details will be provided later.
